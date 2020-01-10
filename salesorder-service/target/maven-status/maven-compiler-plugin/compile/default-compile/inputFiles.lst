@@ -1,0 +1,15 @@
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\model\CustomerSOS.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\model\Item.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\SalesorderServiceApplication.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\util\RabbitMQProperties.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\model\OrderLineItem.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\service\ItemServiceFeign.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\model\Order.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\model\Response.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\model\SalesOrder.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\util\AMQPListener.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\service\CustomerSosRepository.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\controller\SalesOrderController.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\service\OrderLineItemRepository.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\service\SalesOrderRepository.java
+D:\workspace\CaseStudy\salesorder-service\src\main\java\com\microservices\salesorderservice\controller\SOSService.java

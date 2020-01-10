@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "salesorder-service",
+      "type": "com.microservices.salesorderservice.util.SalesOrderConfiguration",
+      "sourceType": "com.microservices.salesorderservice.util.SalesOrderConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "salesorder-service.environment",
+      "type": "java.lang.String",
+      "sourceType": "com.microservices.salesorderservice.util.SalesOrderConfiguration"
+    }
+  ],
+  "hints": []
+}

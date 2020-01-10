@@ -1,0 +1,15 @@
+com\microservices\salesorderservice\model\Order.class
+com\microservices\salesorderservice\model\Item.class
+com\microservices\salesorderservice\util\AMQPListener.class
+com\microservices\salesorderservice\model\OrderLineItem.class
+com\microservices\salesorderservice\controller\SalesOrderController.class
+com\microservices\salesorderservice\SalesorderServiceApplication.class
+com\microservices\salesorderservice\service\ItemServiceFeign.class
+com\microservices\salesorderservice\model\SalesOrder.class
+com\microservices\salesorderservice\model\CustomerSOS.class
+com\microservices\salesorderservice\service\CustomerSosRepository.class
+com\microservices\salesorderservice\model\Response.class
+com\microservices\salesorderservice\service\OrderLineItemRepository.class
+com\microservices\salesorderservice\controller\SOSService.class
+com\microservices\salesorderservice\service\SalesOrderRepository.class
+com\microservices\salesorderservice\util\RabbitMQProperties.class
